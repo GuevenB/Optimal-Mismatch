@@ -1,0 +1,25 @@
+c:\users\sinan\documents\visual studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\bin\Debug\ReverseColussiGui.exe.config
+c:\users\sinan\documents\visual studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\bin\Debug\ReverseColussiGui.exe
+c:\users\sinan\documents\visual studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\bin\Debug\ReverseColussiGui.pdb
+c:\users\sinan\documents\visual studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.csprojResolveAssemblyReference.cache
+c:\users\sinan\documents\visual studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.Form1.resources
+c:\users\sinan\documents\visual studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.Properties.Resources.resources
+c:\users\sinan\documents\visual studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.csproj.GenerateResource.Cache
+c:\users\sinan\documents\visual studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.exe
+c:\users\sinan\documents\visual studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.pdb
+C:\Users\Sinan\Documents\Visual Studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\ReverseColussiGui\bin\Debug\ReverseColussiGui.exe.config
+C:\Users\Sinan\Documents\Visual Studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\ReverseColussiGui\bin\Debug\ReverseColussiGui.exe
+C:\Users\Sinan\Documents\Visual Studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\ReverseColussiGui\bin\Debug\ReverseColussiGui.pdb
+C:\Users\Sinan\Documents\Visual Studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.Form1.resources
+C:\Users\Sinan\Documents\Visual Studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.Properties.Resources.resources
+C:\Users\Sinan\Documents\Visual Studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.csproj.GenerateResource.Cache
+C:\Users\Sinan\Documents\Visual Studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.exe
+C:\Users\Sinan\Documents\Visual Studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.pdb
+C:\Users\Sinan\Documents\Visual Studio 2015\Projects\ReverseColussiGui\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.csprojResolveAssemblyReference.cache
+C:\Users\Ozgur\Desktop\yeni\ReverseColussiGui\ReverseColussiGui\ReverseColussiGui\bin\Debug\ReverseColussiGui.exe.config
+C:\Users\Ozgur\Desktop\yeni\ReverseColussiGui\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.exe
+C:\Users\Ozgur\Desktop\yeni\ReverseColussiGui\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.pdb
+C:\Users\Ozgur\Desktop\yeni\ReverseColussiGui\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.csprojResolveAssemblyReference.cache
+C:\Users\Ozgur\Desktop\yeni\ReverseColussiGui\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.Form1.resources
+C:\Users\Ozgur\Desktop\yeni\ReverseColussiGui\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.Properties.Resources.resources
+C:\Users\Ozgur\Desktop\yeni\ReverseColussiGui\ReverseColussiGui\ReverseColussiGui\obj\Debug\ReverseColussiGui.csproj.GenerateResource.Cache
